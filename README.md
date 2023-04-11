@@ -11,7 +11,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="40" />
   <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" width="40" />
-}
 
   <picture>
 <source 
