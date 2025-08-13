@@ -26,3 +26,6 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDevOn&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+
+<p>Olá, meu nome é Felipe<br>Sou um estudante universitário de engenharia de software, busco aprender e melhorar a sociedade com aplicações e sistemas</p>
