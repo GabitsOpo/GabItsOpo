@@ -1,4 +1,4 @@
-# LipeDevOn
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,16 +22,16 @@ srcset="https://github-readme-stats.vercel.app/api?username=LipeDevOn&show_icons
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         
 />  
-    
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabItsOpo&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-
-<p>Olá, meu nome é Felipe<br>Sou um estudante universitário de engenharia de software, busco aprender e melhorar a sociedade com aplicações e sistemas</p>
+Olá, meu nome é Felipe<br>Sou um estudante universitário de engenharia de software, busco aprender e melhorar a sociedade com aplicações e sistemas
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+    
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabItsOpo&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+
