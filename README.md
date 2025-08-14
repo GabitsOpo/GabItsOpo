@@ -29,3 +29,9 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 
 
 <p>Olá, meu nome é Felipe<br>Sou um estudante universitário de engenharia de software, busco aprender e melhorar a sociedade com aplicações e sistemas</p>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
